@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shulav Paudel</h1>
-<h3 align="center">A passionate Intern Python developer from Nepal</h3>
+<h3 align="center">A passionate Cyber Security student from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsulav10&label=Profile%20views&color=0e75b6&style=flat" alt="iamsulav10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsulav10" alt="iamsulav10" /></a> </p>
 
-- 🔭 I’m currently working on **anime converter**
-
 - 🌱 I’m currently learning **cybersecurity,AI&ML**
 
-- 📫 How to reach me **playwithsulav@gmail.com**
+- 📫 How to reach me **24.shulav@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
